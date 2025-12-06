@@ -1,0 +1,10 @@
+color
+green
+kontrast
+hell
+color
+weiß
+kontrast
+dunkel
+change timer
+15

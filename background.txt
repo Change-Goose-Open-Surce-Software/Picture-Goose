@@ -1,0 +1,10 @@
+color
+schwarz
+kontrast
+dunkel
+color
+grau
+kontrast
+dunkel
+change timer
+5
