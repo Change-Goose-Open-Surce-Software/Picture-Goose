@@ -1,0 +1,3 @@
+main.py: vollbild
+keyboard.py: fenster
+settings.py: fenster
